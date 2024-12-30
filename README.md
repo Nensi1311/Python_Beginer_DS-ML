@@ -1,2 +1,2 @@
-# Python_Beginer_DS-ML
-Codes for python beginner for data science and machine learning
+# Python Beginer
+I have completed the Data Science and Machine Learning (DSML) course from Scaler, where I learned Python programming from the basics and gained a strong foundation in data science and machine learning concepts. The course included comprehensive lectures and hands-on practicals, which helped me understand Python programming and its applications in data analysis. This repository contains my notes and assignments completed during the course
